@@ -1,3 +1,3 @@
 # linear-demo
 
-Hello there! 
+Hello, world! 
